@@ -23,6 +23,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
         }
     }
 
+    public void thisIsANewMethod() { }
+
     @Override
     protected void onCreate(Bundle _savedInstanceState) {
         super.onCreate(_savedInstanceState);
