@@ -24,8 +24,11 @@ public class MainActivity extends Activity implements View.OnClickListener{
     }
 
     public void thisIsANewMethod() {
+<<<<<<< HEAD
 		Log.i(TAG, "Änderung von Member1");
+		Log.i(TAG,"habe was geändert");
 	}
+>>>>>>> d86e1cbd0f52ac95eb1170bbad5ce560ed8f8057
 
     @Override
     protected void onCreate(Bundle _savedInstanceState) {
