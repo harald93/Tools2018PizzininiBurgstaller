@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex01--View</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_button_a_text">Button A</string>
+    <string name="main_activity_button_b_text">Button B</string>
+    <string name="main_activity_button_c_text">Button C</string>
+    <string name="main_activity_button_d_text">Button D</string>
+    <string name="main_activity_button_e_text">Button E</string>
+    <string name="main_activity_button_f_text">Button F</string>
+</resources>

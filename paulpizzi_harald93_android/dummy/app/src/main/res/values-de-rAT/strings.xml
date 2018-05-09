@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ex01--View</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_button_a_text">Taste A</string>
+    <string name="main_activity_button_b_text">Taste B</string>
+    <string name="main_activity_button_c_text">Taste C</string>
+    <string name="main_activity_button_d_text">Taste D</string>
+    <string name="main_activity_button_e_text">Taste E</string>
+    <string name="main_activity_button_f_text">Taste F</string>
+</resources>
+
